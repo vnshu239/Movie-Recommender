@@ -2,6 +2,9 @@
 
 This project is a web application that suggests movies based on the user's mood. It provides an interactive interface where users can input their current mood and receive movie recommendations tailored to their emotional state.
 
+## Check it Out
+https://vnshu239.github.io/Movie-Recommender/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
